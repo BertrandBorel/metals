@@ -1,0 +1,70 @@
+Country,Continent,Reserves,Production,Metal
+India,Asia,660000,17000,Aluminium
+Saudi Arabia,Asia,180000,4800,Aluminium
+Russia,Asia,500000,5000,Aluminium
+China ,Asia,710000,90000,Aluminium
+Jamaica,America,2000000,3900,Aluminium
+Brazil,America,2700000,33000,Aluminium
+Guinea,Africa,7400000,86000,Aluminium
+Indonesia ,Oceania,1000000,21000,Aluminium
+Australia,Oceania,5100000,100000,Aluminium
+Vietnam,Asia,5800000,3800,Aluminium
+Rest of the World,World,4950000,15500,Aluminium
+ TOTAL World,World,31000000,380000,Aluminium
+USA,America,69000,800,Cobalt
+Canada,America,220000,3900,Cobalt
+Cuba,America,500000,3800,Cobalt
+Indonesia ,Oceania,600000,10000,Cobalt
+Philippines,Oceania,260000,3800,Cobalt
+Australia,Oceania,1500000,5900,Cobalt
+Democratic Republic of Congo,Africa,4000000,130000,Cobalt
+Madagascar,Africa,100000,3000,Cobalt
+Russia,Asia,250000,8900,Cobalt
+China ,Asia,140000,2200,Cobalt
+Rest of the World,World,661000,17700,Cobalt
+ TOTAL World,World,8300000,190000,Cobalt
+USA,America,44000,1300,
+Polan,Europe,30000,390,
+Russia,Asia,62000,1000,
+China ,Asia,27000,1900,
+Mexico,America,53000,740,
+Peru,America,81000,2200,
+Chile,America,190000,5200,
+Democratic Republic of Congo,Africa,31000,2200,
+Australia,Oceania,97000,830,
+Rest of the World,World,275000,6240,
+ TOTAL World,World,890000,22000,
+Australia,Oceania,6200000,61000,Lithium
+China ,Asia,2000000,19000,Lithium
+Democratic Republic of Congo,Africa,0,0,Lithium
+Chile,America,9300000,39000,Lithium
+Mexico,America,0,0,Lithium
+USA,America,1000000,0,Lithium
+Argentina,America,2700000,6200,Lithium
+Germany,Europe,0,0,Lithium
+Bolivia,America,0,0,Lithium
+Rest of the World,World,4800000,4800,Lithium
+ TOTAL World,World,26000000,130000,Lithium
+USA,America,370000,18000,Nickel
+Indonesia ,Oceania,21000000,1600000,Nickel
+Russia,Asia,7500000,220000,Nickel
+China ,Asia,2100000,110000,Nickel
+Canada,America,2200000,130000,Nickel
+Brazil,America,16000000,83000,Nickel
+France,Europe,7100000,190000,Nickel
+Philippines,Oceania,4800000,330000,Nickel
+Australia,Oceania,21000000,160000,Nickel
+Rest of the World,World,17930000,459000,Nickel
+ TOTAL World,World,100000000,3300000,Nickel
+India,Asia,6900000,2900,Rare-earth element
+USA,America,2300000,43000,Rare-earth element
+Russia,Asia,21000000,2600,Rare-earth element
+China ,Asia,44000000,210000,Rare-earth element
+Burma,Asia,0,12000,Rare-earth element
+Brazil,America,21000000,80,Rare-earth element
+Madagascar,Africa,0,960,Rare-earth element
+Thailand,Oceania,0,7100,Rare-earth element
+Australia,Oceania,4200000,18000,Rare-earth element
+Vietnam,Asia,22000000,4300,Rare-earth element
+Rest of the World,World,8600000,0,Rare-earth element
+ TOTAL World,World,130000000,300940,Rare-earth element

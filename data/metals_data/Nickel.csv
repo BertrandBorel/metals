@@ -1,0 +1,12 @@
+Country,Continent,Reserves,Production,Metal
+USA,America,370000,18000,Nickel
+Indonesia ,Oceania,21000000,1600000,Nickel
+Russia,Asia,7500000,220000,Nickel
+China ,Asia,2100000,110000,Nickel
+Canada,America,2200000,130000,Nickel
+Brazil,America,16000000,83000,Nickel
+France,Europe,7100000,190000,Nickel
+Philippines,Oceania,4800000,330000,Nickel
+Australia,Oceania,21000000,160000,Nickel
+Rest of the World,World,17930000,459000,Nickel
+ TOTAL World,World,100000000,3300000,Nickel

@@ -1,0 +1,13 @@
+Country,Continent,Reserves,Production,Metal
+India,Asia,660000,17000,Aluminium
+Saudi Arabia,Asia,180000,4800,Aluminium
+Russia,Asia,500000,5000,Aluminium
+China ,Asia,710000,90000,Aluminium
+Jamaica,America,2000000,3900,Aluminium
+Brazil,America,2700000,33000,Aluminium
+Guinea,Africa,7400000,86000,Aluminium
+Indonesia ,Oceania,1000000,21000,Aluminium
+Australia,Oceania,5100000,100000,Aluminium
+Vietnam,Asia,5800000,3800,Aluminium
+Rest of the World,World,4950000,15500,Aluminium
+ TOTAL World,World,31000000,380000,Aluminium

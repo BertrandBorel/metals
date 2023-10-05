@@ -1,0 +1,13 @@
+Country,Continent,Reserves,Production,Metal
+India,Asia,6900000,2900,Rare-earth element
+USA,America,2300000,43000,Rare-earth element
+Russia,Asia,21000000,2600,Rare-earth element
+China ,Asia,44000000,210000,Rare-earth element
+Burma,Asia,0,12000,Rare-earth element
+Brazil,America,21000000,80,Rare-earth element
+Madagascar,Africa,0,960,Rare-earth element
+Thailand,Oceania,0,7100,Rare-earth element
+Australia,Oceania,4200000,18000,Rare-earth element
+Vietnam,Asia,22000000,4300,Rare-earth element
+Rest of the World,World,8600000,0,Rare-earth element
+ TOTAL World,World,130000000,300940,Rare-earth element

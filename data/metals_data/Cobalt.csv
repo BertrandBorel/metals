@@ -1,0 +1,13 @@
+Country,Continent,Reserves,Production,Metal
+USA,America,69000,800,Cobalt
+Canada,America,220000,3900,Cobalt
+Cuba,America,500000,3800,Cobalt
+Indonesia ,Oceania,600000,10000,Cobalt
+Philippines,Oceania,260000,3800,Cobalt
+Australia,Oceania,1500000,5900,Cobalt
+Democratic Republic of Congo,Africa,4000000,130000,Cobalt
+Madagascar,Africa,100000,3000,Cobalt
+Russia,Asia,250000,8900,Cobalt
+China ,Asia,140000,2200,Cobalt
+Rest of the World,World,661000,17700,Cobalt
+ TOTAL World,World,8300000,190000,Cobalt
