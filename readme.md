@@ -5,3 +5,7 @@ création d'un dataset pour faire de la visualisation sur Taipy.
 - ploter une map.
 - visualiser le tableau sur Taipy
 - filtres : pays, matières, slide production/réserve
+
+---
+
+#### A déplacer dans Apps/Taipy
